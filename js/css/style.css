@@ -1,0 +1,12 @@
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: gray;
+}
+.box3{
+	background-color: #F8F9D7;
+	border: 5px solid red;
+}
+.mh-400{
+	min-height: 400px;
+}
